@@ -1,0 +1,30 @@
+.cabecera{
+    width: 2000px;
+    height: 10px;
+    background: rgb(160, 90, 133);
+    display: ;
+    align-items: center;
+}
+
+.cabecera2{
+    width: 2000px;
+    height: 10px;
+    background: rgb(97, 59, 238);
+
+}
+
+img{
+    width: 200px;
+    height: auto;
+
+}
+
+
+.Descripcion{
+    width: 300px;
+    align-items: start;
+    background: rgb(243, 145, 199);
+    color: aliceblue;
+    
+
+}
